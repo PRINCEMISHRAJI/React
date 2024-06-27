@@ -9,10 +9,10 @@ function customRender(reactElement, container){
 const reactElement ={
     tag : 'a',
     props : {
-        href : "https://www.google.com",
+        href : "https://ankitpedia-sm.onrender.com/",
         target : "_blank"
     },
-    children : "Click this to visit Google"
+    children : "Click this to visit my React  Project   AnkitPedia"
 }
 
 
